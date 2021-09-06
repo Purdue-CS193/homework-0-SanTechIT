@@ -1,3 +1,9 @@
+# Richard's First CS193 Homework
+Favorite CS193 Stuff
+- Interesting class discussions
+- Further list pending...
+
+# The rest of this page is kept as a reference
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
 ## What is this assignment
